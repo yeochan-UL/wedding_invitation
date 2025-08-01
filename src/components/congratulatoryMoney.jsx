@@ -28,6 +28,7 @@ const Wrapper = styled.div`
 `;
 
 const Title = styled.p`
+  font-family: "bookkMyungjo_bold";
   font-size: 1rem;
   color: var(--title-color);
   font-weight: bold;
@@ -36,6 +37,7 @@ const Title = styled.p`
 `;
 
 const Content = styled.p`
+  font-family: "bookkMyungjo_bold";
   font-size: 0.875rem;
   line-height: 1.75;
   opacity: 0.75;
@@ -43,6 +45,7 @@ const Content = styled.p`
 `;
 
 const SubContent = styled.p`
+  font-family: "bookkMyungjo_bold";
   font-size: 0.875rem;
   line-height: 1.75;
   opacity: 0.75;
@@ -50,6 +53,7 @@ const SubContent = styled.p`
 `;
 
 const Description = styled.p`
+  font-family: "bookkMyungjo_bold";
   font-size: 0.875rem;
   line-height: 1.75;
   opacity: 0.65;
@@ -97,7 +101,7 @@ const CongratulatoryMoney = () => {
       <ButtonWrap>
         <ContactButton data-aos="fade-up" onClick={() => setGroomVisible(true)}>
           <CheckCircleTwoTone
-            style={{ fontSize: 64, marginBottom: 16 }}
+            style={{ fontSize: 64, marginBottom: 16, fontFamily: 'bookkMyungjo_bold' }}
             twoToneColor="#829fe0"
           />
           <br />

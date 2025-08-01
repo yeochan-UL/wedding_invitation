@@ -16,6 +16,7 @@ const Layout = styled.div`
 `;
 
 const TitleWrapper = styled.div`
+  font-family: "bookkMyungjo_bold";
   width: 100%;
   text-align: center;
   padding-top: 42px;
@@ -32,12 +33,14 @@ const VideoBackground = styled.video`
 `;
 
 const WeddingInvitation = styled.p`
+  font-family: "bookkMyungjo_bold";
   font-size: 0.825rem;
   opacity: 0.45;
   margin-bottom: 16px;
 `;
 
 const GroomBride = styled.p`
+  font-family: "bookkMyungjo_bold";
   font-size: 1.5rem;
   font-weight: bold;
   opacity: 0.9;
@@ -45,6 +48,7 @@ const GroomBride = styled.p`
 `;
 
 const Schedule = styled.p`
+  font-family: "bookkMyungjo_bold";
   font-size: 1.06rem;
   opacity: 0.65;
   margin-bottom: 24px;

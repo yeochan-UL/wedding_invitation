@@ -19,6 +19,7 @@ const Wrapper = styled.div`
 `;
 
 const Title = styled.span`
+  font-family: "bookkMyungjo_bold";
   font-size: 1rem;
   color: var(--title-color);
   font-weight: bold;
@@ -27,6 +28,7 @@ const Title = styled.span`
 `;
 
 const KakaoTalkShareButton = styled(Button)`
+  font-family: "bookkMyungjo_bold";
   background: #fee500;
   border-color: #fee500;
   color: #181600;
@@ -44,6 +46,7 @@ const KakaoTalkShareButton = styled(Button)`
 `;
 
 const LinkShareButton = styled(Button)`
+  font-family: "bookkMyungjo_bold";
   background-color: rgba(217, 125, 131, 0.2);
   border-color: rgba(217, 125, 131, 0.2) !important;
   color: var(--title-color) !important;

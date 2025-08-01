@@ -18,6 +18,7 @@ const Wrapper = styled.div`
 `;
 
 const Title = styled.p`
+  font-family: "bookkMyungjo_bold";
   font-size: 1rem;
   color: var(--title-color);
   font-weight: bold;
@@ -27,16 +28,18 @@ const Title = styled.p`
 `;
 
 const Content = styled.p`
-  font-size: 0.72rem;
-  line-height: 1.75;
+  font-family: "bookkMyungjo_bold";
+  font-size: 0.9rem;
+  line-height: 1.5;
   opacity: 0.75;
-  margin-bottom: 16px;
+  margin-bottom: 25px;
   width: 100%;
   text-align: center;
 `;
 
 const GroomBride = styled.p`
-  font-size: 0.875rem;
+  font-family: "bookkMyungjo_bold";
+  font-size: 0.9rem;
   line-height: 1.75;
   opacity: 0.85;
   margin-bottom: 0px;

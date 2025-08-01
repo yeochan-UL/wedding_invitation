@@ -10,6 +10,7 @@ const Wrapper = styled.div`
 `;
 
 const Title = styled.span`
+  font-family: "bookkMyungjo_bold";
   font-size: 1rem;
   color: var(--title-color);
   font-weight: bold;
@@ -25,6 +26,7 @@ const Image = styled.img`
 `;
 
 const Content = styled.p`
+  font-family: "bookkMyungjo_bold";
   font-size: 0.875rem;
   line-height: 1.75;
   opacity: 0.75;

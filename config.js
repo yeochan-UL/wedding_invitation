@@ -3,7 +3,7 @@ export const KAKAOTALK_API_TOKEN = "a73479c588004db1adbb918270ba43f8";
 export const KAKAOTALK_SHARE_IMAGE =
   "https://cdn.pixabay.com/photo/2014/11/13/17/04/heart-529607_960_720.jpg";
 
-export const WEDDING_DATE = "2025년 11월 01일, 토요일 오전 11시 00분";
+export const WEDDING_DATE = "2025년 11월 01일, 토요일 오전 11시";
 export const WEDDING_LOCATION = "안산 한양대 에리카웨딩홀, 1층";
 
 export const GROOM_NAME = "윤여찬";
